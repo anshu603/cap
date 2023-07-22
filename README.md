@@ -1,2 +1,2 @@
 # cap
-cap repo
+cap repo for git command demonstration
